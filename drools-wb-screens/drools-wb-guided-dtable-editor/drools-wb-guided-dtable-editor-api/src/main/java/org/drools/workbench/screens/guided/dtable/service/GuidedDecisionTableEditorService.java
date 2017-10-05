@@ -22,7 +22,7 @@ import org.guvnor.common.services.shared.file.SupportsUpdate;
 import org.guvnor.common.services.shared.metadata.model.Metadata;
 import org.guvnor.common.services.shared.validation.ValidationService;
 import org.jboss.errai.bus.server.annotations.Remote;
-import org.kie.workbench.common.services.datamodel.model.PackageDataModelOracleBaselinePayload;
+import org.kie.soup.project.datamodel.model.PackageDataModelOracleBaselinePayload;
 import org.kie.workbench.common.services.shared.source.ViewSourceService;
 import org.uberfire.backend.vfs.Path;
 import org.uberfire.ext.editor.commons.service.support.SupportsCopy;

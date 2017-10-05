@@ -21,12 +21,12 @@ import javax.inject.Inject;
 import org.drools.workbench.screens.enums.type.EnumResourceTypeDefinition;
 import org.kie.soup.project.datamodel.commons.util.MVELEvaluator;
 import org.kie.soup.project.datamodel.oracle.ProjectDataModelOracle;
-import org.kie.workbench.common.services.datamodel.backend.server.builder.util.DataEnumLoader;
 import org.kie.workbench.common.services.datamodel.backend.server.service.DataModelService;
 import org.kie.workbench.common.services.refactoring.backend.server.indexing.AbstractFileIndexer;
 import org.kie.workbench.common.services.refactoring.backend.server.indexing.DefaultIndexBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.uberfire.backend.server.util.DataEnumLoader;
 import org.uberfire.backend.server.util.Paths;
 import org.uberfire.java.nio.file.Path;
 

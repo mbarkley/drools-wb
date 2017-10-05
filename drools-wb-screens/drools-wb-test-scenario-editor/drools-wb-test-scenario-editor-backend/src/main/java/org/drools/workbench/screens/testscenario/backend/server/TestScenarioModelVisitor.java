@@ -24,7 +24,7 @@ import org.drools.workbench.models.testscenarios.shared.FixtureList;
 import org.drools.workbench.models.testscenarios.shared.FixturesMap;
 import org.drools.workbench.models.testscenarios.shared.Scenario;
 import org.kie.soup.project.datamodel.imports.Import;
-import org.kie.workbench.common.services.datamodel.model.PackageDataModelOracleBaselinePayload;
+import org.kie.soup.project.datamodel.model.PackageDataModelOracleBaselinePayload;
 
 public class TestScenarioModelVisitor {
 

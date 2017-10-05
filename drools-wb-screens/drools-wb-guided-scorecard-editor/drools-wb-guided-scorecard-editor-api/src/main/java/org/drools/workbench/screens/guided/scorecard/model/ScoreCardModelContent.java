@@ -20,7 +20,7 @@ import org.drools.workbench.models.guided.scorecard.shared.ScoreCardModel;
 import org.guvnor.common.services.shared.metadata.model.Overview;
 import org.jboss.errai.common.client.api.annotations.Portable;
 import org.kie.soup.commons.validation.PortablePreconditions;
-import org.kie.workbench.common.services.datamodel.model.PackageDataModelOracleBaselinePayload;
+import org.kie.soup.project.datamodel.model.PackageDataModelOracleBaselinePayload;
 
 @Portable
 public class ScoreCardModelContent {
